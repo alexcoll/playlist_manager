@@ -1,6 +1,6 @@
 GIT
-  remote: git://github.com/amatsuda/kaminari.git
-  revision: 9e9ac3b7516b409a4aed1ce1bc6c5e90108c9511
+  remote: https://github.com/amatsuda/kaminari.git
+  revision: ff5c8425eb7191a4e1cb6013b2a15bf38a725a5f
   specs:
     kaminari (1.1.1)
       activesupport (>= 4.1.0)
@@ -310,7 +310,7 @@ GEM
     thor (1.0.1)
     thread_safe (0.3.6)
     tilt (2.0.8)
-    tzinfo (1.2.6)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     uglifier (4.1.10)
       execjs (>= 0.3.0, < 3)
