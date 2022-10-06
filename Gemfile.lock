@@ -1,6 +1,6 @@
 GIT
-  remote: git://github.com/amatsuda/kaminari.git
-  revision: 9e9ac3b7516b409a4aed1ce1bc6c5e90108c9511
+  remote: https://github.com/amatsuda/kaminari.git
+  revision: ff5c8425eb7191a4e1cb6013b2a15bf38a725a5f
   specs:
     kaminari (1.1.1)
       activesupport (>= 4.1.0)
@@ -55,8 +55,8 @@ GEM
       i18n (>= 0.7, < 2)
       minitest (~> 5.1)
       tzinfo (~> 1.1)
-    addressable (2.5.2)
-      public_suffix (>= 2.0.2, < 4.0)
+    addressable (2.8.1)
+      public_suffix (>= 2.0.2, < 6.0)
     arel (7.1.4)
     autoprefixer-rails (8.5.0)
       execjs
@@ -216,7 +216,7 @@ GEM
     pry (0.11.3)
       coderay (~> 1.1.0)
       method_source (~> 0.9.0)
-    public_suffix (3.0.2)
+    public_suffix (5.0.0)
     puma (4.3.3)
       nio4r (~> 2.0)
     rack (2.2.2)
