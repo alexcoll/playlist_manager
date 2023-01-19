@@ -1,6 +1,6 @@
 GIT
-  remote: git://github.com/amatsuda/kaminari.git
-  revision: 9e9ac3b7516b409a4aed1ce1bc6c5e90108c9511
+  remote: https://github.com/amatsuda/kaminari.git
+  revision: ff5c8425eb7191a4e1cb6013b2a15bf38a725a5f
   specs:
     kaminari (1.1.1)
       activesupport (>= 4.1.0)
@@ -85,7 +85,7 @@ GEM
       execjs
     coffee-script-source (1.12.2)
     colorize (0.8.1)
-    concurrent-ruby (1.1.6)
+    concurrent-ruby (1.1.10)
     crack (0.4.3)
       safe_yaml (~> 1.0.0)
     crass (1.0.6)
@@ -141,8 +141,8 @@ GEM
     figgy (1.3.0)
       json
     gherkin (5.0.0)
-    globalid (0.4.1)
-      activesupport (>= 4.2.0)
+    globalid (1.0.1)
+      activesupport (>= 5.0)
     haml (5.0.4)
       temple (>= 0.8.0)
       tilt
@@ -161,7 +161,7 @@ GEM
       ruby_parser (~> 3.5)
     http-cookie (1.0.3)
       domain_name (~> 0.5)
-    i18n (1.8.2)
+    i18n (1.12.0)
       concurrent-ruby (~> 1.0)
     jbuilder (2.7.0)
       activesupport (>= 4.2.0)
@@ -184,7 +184,7 @@ GEM
     mime-types (2.99.3)
     mini_mime (1.0.0)
     mini_portile2 (2.4.0)
-    minitest (5.14.0)
+    minitest (5.17.0)
     multi_json (1.13.1)
     multi_test (0.1.2)
     multi_xml (0.6.0)
@@ -310,7 +310,7 @@ GEM
     thor (1.0.1)
     thread_safe (0.3.6)
     tilt (2.0.8)
-    tzinfo (1.2.6)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     uglifier (4.1.10)
       execjs (>= 0.3.0, < 3)
